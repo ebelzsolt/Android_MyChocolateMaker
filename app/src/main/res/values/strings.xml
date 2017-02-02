@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Chocolate Maker</string>
+
+    <string name="story">Story</string>
+    <string name="desc">My Chocolate Maker is India\'s 1st Online Chocolate making Company, was
+        established with the aim to prepare the perfect chocolate bar. Because it means something
+        different to each chocolate lovers.
+    </string>
+
+    <string name="featured">Featured products</string>
+
+    <string name="contact_info">Contact Information</string>
+    <string name="phone_number">+91 77389 26991</string>
+    <string name="facebook">www.fb.com/mychocolatemaker</string>
+    <string name="mail">mychocolatemaker@yahoo.com</string>
+    <string name="web">www.mychocolatemaker.com</string>
+    <string name="address">D303 Bombay Lalbaugh Opp Ganesh Talkies, Mumbai Gas Ln, Gundecha Garden,
+        Mumbai, Maharashtra 400012, India</string>
+
+    <string name="google_maps_link">
+        https://www.google.hu/maps/place/My+Chocolate+Maker/@18.9904141,72.8318463,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cef60b2c9109:0xda54807a50357346!8m2!3d18.990409!4d72.834035?h&amp;z=9
+    </string>
+</resources>
+
